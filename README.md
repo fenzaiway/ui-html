@@ -3,3 +3,5 @@
 v1.0.0
 增加：增加ai api 配置，支持自定义api key，支持自定义api url。
 UI细节调整
+
+推荐: [https://vsllm.com/](https://vsllm.com/)维云模型
